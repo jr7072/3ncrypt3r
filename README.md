@@ -34,8 +34,16 @@ This program was made with:
 --------
 
 1. clone:
+
+```
+$git clone https://github.com/jr7072/3ncrypt3r.git
+```
     
 2. run locally:
+
+```
+$python 3ncrypt3r.py
+```
 
 ## Instructions
 ----------------
